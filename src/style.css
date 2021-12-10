@@ -1,0 +1,24 @@
+.title{
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.red{
+    color: red;
+}
+div.App{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: center;
+    width: auto;
+    align-content: center;
+}
+div.App:hover {
+    border: 1px solid #777;
+  }
+  div.App img {
+    width: 100%;
+    height: auto;
+  }
+  
